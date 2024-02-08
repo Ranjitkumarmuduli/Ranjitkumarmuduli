@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ML,DL and so on.
 - 💞️ I’m working as Data Analyst at ICCW,Chennai.
 - 📫 How to reach me LinkedIn- @RanjitKumarMuduli & email- mudliranjit123@gmail.com .
+- LinkedIn- https://www.linkedin.com/in/ranjit-kumar-muduli-008bba21a
+- Medium- https://medium.com/@muduliranjit123
 
 <!---
 Ranjitkumarmuduli/Ranjitkumarmuduli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
